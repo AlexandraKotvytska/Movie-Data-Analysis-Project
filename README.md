@@ -18,12 +18,21 @@ This data analysis project aims to provide insights into the performance and tre
 In the initial data preparation phase, I performed the following tasks:
 Data loading and inspection.
 Handling errors, missing values.
-Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here - Movies Data Ready for Dashboard.xlsx
+Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here - [Movies Data Ready for Dashboard.](https://github.com/AlexandraKotvytska/Movie-Data-Analysis-Project/upload/main#:~:text=Movies%20Dashboard.xlsx)
 
-### Exploratory Data Analysis
-
+### Questions for Data Analysis
+ 1. Which top 10 genres were the most successful (Box) these years?
+ 2. Which top 5 actors were the most successful?
+ 3. Top5 movies Box and Budget?
+   
 ### Results and Findings
+As an example: Best profitable movie was: with Budget of... Box Office Revenue was 102,000,000 USD. The genre of this movie was horror.
+
+
 
 ### Chalanges in Analysis
+
+
+![image](https://github.com/user-attachments/assets/5fc70416-5b96-4efc-8a00-884f03e421bc)
 
 ### Excel Dashboard
