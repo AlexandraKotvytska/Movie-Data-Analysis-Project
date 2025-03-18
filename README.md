@@ -26,7 +26,9 @@ Data cleaning and formatting. The excel file after the data cleaning & preparati
  3. Top5 movies Box and Budget?
    
 ### Results and Findings
-As an example: Best profitable movie was: with Budget of... Box Office Revenue was 102,000,000 USD. The genre of this movie was horror.
+As an example: Best profitable movie  during 2012-2016 was: with Budget of... Box Office Revenue was 102,000,000 USD. The genre of this movie was horror.
+                        
+                         ![image](https://github.com/user-attachments/assets/66935cc9-d39a-4be6-9540-eff27f1e134c)
 
 
 
